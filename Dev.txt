@@ -1,0 +1,3 @@
+-> grenouille qui doit tuer des singes afin de liberer le bellule
+- elle se deplace en faisant des saut | upd = deplacement ok mais faire bond
+- plateforme en l'air
